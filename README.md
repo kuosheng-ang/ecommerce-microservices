@@ -4,7 +4,7 @@ Applications using URL-based parameters for dynamic, shareable, and bookmarkable
 Filter Features Demonstrated
 
 
-![Dynamic Filter Functionality with URL parsing and construction in React](Dynamic_Filter_Functionality_with_URL_parsing_and_construction_in_React.PDF"React_URL_with_Dynamic_Filtering_Functionality")
+![Dynamic Filter Functionality with URL parsing and construction in React](Dynamic_Filter_Functionality_with_URL_parsing_and_construction_in_React.pdf "React_URL_with_Dynamic_Filtering_Functionality")
 
 1. Search by Keyword
 •	Functionality: Search products by name or description
