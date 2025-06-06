@@ -1,4 +1,4 @@
-applications using URL-based parameters for dynamic, shareable, and bookmarkable search results, with backend integration to database.
+Applications using URL-based parameters for dynamic, shareable, and bookmarkable search results, with backend integration to database.
 Filter Features Demonstrated
 1. Search by Keyword
 •	Functionality: Search products by name or description
