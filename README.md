@@ -1,3 +1,5 @@
+**Front-End  Development Features using React**
+
 Applications using URL-based parameters for dynamic, shareable, and bookmarkable search results, with backend integration to database.
 Filter Features Demonstrated
 ![Dynamic Filter Functionality with URL parsing and construction in React](./Dynamic Filter Functionality with URL parsing and construction in React.PDF "account-entity-tabl")
